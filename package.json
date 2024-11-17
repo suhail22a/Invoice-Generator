@@ -30,7 +30,7 @@
     ]
   },
   "engines": {
-    "node": "16"
+    "node": "20.x"
   },
   "browserslist": {
     "production": [
@@ -43,8 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "webpack": "^5.96.1"
   }
 }
