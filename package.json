@@ -53,5 +53,8 @@
     "cross-env": "^7.0.3",
     "eslint": "^8.57.1",
     "react-scripts": "^5.0.1"
+  },
+  "env": {
+    "CI": "false"
   }
 }
